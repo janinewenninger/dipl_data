@@ -1,0 +1,29 @@
+[
+  {
+    "product_id": "1",
+    "text": "Cappuccino",
+    "price": "4.20",
+    "group": "a",
+    "in_stock": "0",
+    "text2": "b",
+    "info": "c" 
+  },
+  {
+    "product_id": "2",
+    "text": "Latte Macchiato",
+    "price": "4.20",
+    "group": "a",
+    "in_stock": "0",
+    "text2": "b",
+    "info": "c"
+  },
+  {
+    "product_id": "3",
+    "text": "Espresso",
+    "price": "4.20",
+    "group": "a",
+    "in_stock": "0",
+    "text2": "b",
+    "info": "c"
+  }
+]
